@@ -2,8 +2,8 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Runacian%20Github!&fontSize=80" />	
 </div>
 <div align=center>
-
-	<p>✨ Studying ✨</p>
+	<h3>📚 Tech Stack 📚</h3>
+	✨ Studying ✨
 	
 </div>
 <div align="center">
