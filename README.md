@@ -10,9 +10,7 @@
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-	<br>
-	
+ 	
 	
 	
 </div>
@@ -28,7 +26,17 @@
 	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
 	<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
 	<img src="https://img.shields.io/badge/scikit learn-F7931E?style=flat&logo=scikit learn&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
 </div>
+<br>
+<div align=center>
+	<p>🛠 Database 🛠</p>
+</div>
+<div align=center>
+	<img src="https://img.shields.io/badge/Mariadb-003545?style=flat&logo=Mariadb&logoColor=white" />
+ 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />	
+
 
 </div>
 <br>
